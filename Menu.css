@@ -1,0 +1,52 @@
+body{
+  font-family:Trebuchet MS;
+}
+.box{
+  width: 1220px;
+  padding:10px;
+  height:820px;
+  border: 5px solid #3498DB;
+  margin: 0;
+  border-radius:8px;
+}
+.example{
+
+ margin-left: 20px;
+  color:#3498DB;
+}
+hr{
+  border: 1px solid #F2F3F4;
+  border-radius: 3px;
+}
+.header
+{
+  width:1220px;
+  height:170px;
+  margin:0px 30px 0px 5px;
+
+}
+.anchor ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.anchor li {
+  float: left;
+}
+.anchor li a {
+  display: block;
+  color: #3498DB;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  font-family:Trebuchet MS;
+}
+.anchor li a:hover{
+  color:#21618C;
+}
+.main-body
+{
+
+  margin:0px 5px 0px 5px;
+}
